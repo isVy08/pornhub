@@ -3,5 +3,5 @@ In 2013, Jon Millward published the first ever study on pornstars with data extr
 
 Out of curiosity, I used Beautiful Soup to scrape profiles of exactly 11,395 female pornstars on Pornhub, which include not just professional actresses but also models and amateur content creators. To examine what makes a pornstar successful requires us to define a success metric (dependent variable Y) and a set of explanatory features (independent variables X’s). Pornhub is much like a pornographic YouTube and each pornstar has ther own channel with her bio details published on top of the page. So, I used Subscribers as Y against which to examine the relationships with the 21 feature X’s I managed to extract.   
 
-You can find details for my analysis at https://tinyurl.com/pornhub-analysis
-Thi is my first ever analysis. I welcome all of your feedbacks, comments and discussion. 
+You can find details for my analysis at https://tinyurl.com/pornhub-analysis.
+This is my first ever analysis, so I welcome all of your feedbacks, comments and discussion. 
